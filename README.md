@@ -9,3 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like coding with cools music :)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people</b> so if you want to say <b>hi, Kindly reach out by dropping a message</b> :)</em>
+
+
