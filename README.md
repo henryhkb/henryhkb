@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/43294515/177299696-4770b9b2-f473-48d2-b842-a54e4011a20f.png)
 ### Hi, I'm Henry Kofi Brandoh 👋
 I am a passionate and self-taught full stack Developer with the LAMP(Linux, Apache, MySQL, PHP) from Ghana. My passion for software grows as I begin
 to put my visualized ideas into practise and my curiosity make me learn more. I use my current stack to provide solutions with building content
