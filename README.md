@@ -1,5 +1,5 @@
 ### Hi, I'm Henry Kofi Brandoh 👋
-
+I am a passionate and self-taught full stack Developer with the LAMP(Linux, Apache, MySQL, PHP) from Ghana.
 
 - 🔭 I’m currently working on a digitalized transportation system in my country(Ghana)
 - 🌱 I’m currently learning Object Oriented Programming using PHP and Laravel
