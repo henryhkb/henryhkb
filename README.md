@@ -2,8 +2,7 @@
 I am a passionate and self-taught full stack Developer with the LAMP(Linux, Apache, MySQL, PHP) from Ghana. My passion for software grows as I begin
 to put my visualized ideas into practise and my curiosity make me learn more. I use my current stack to provide solutions with building content
 management systems with a good architecture and clean code. I also find interest in the security of systems that is why follow and use the
-OWASP top 10 vulnerablity analysis. Hey ![image](https://user-images.githubusercontent.com/43294515/177299904-101a437c-0ab2-4954-8f6b-55af8904909e.png)
- That means I do not only build systems but also make sure they are safe for its users and organisations
+OWASP top 10 vulnerablity analysis. Hey :)) That means I do not only build systems but also make sure they are safe for its users and organisations
 to use.
 
 - 🔭 I’m currently working on a digitalized transportation system in my country(Ghana)
