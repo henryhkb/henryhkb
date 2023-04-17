@@ -1,4 +1,5 @@
 ### Hi, I'm Henry Kofi Brandoh 👋 🙂
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 I am a passionate and self-taught full stack Developer with the LAMP(Linux, Apache, MySQL, PHP) from Ghana 🇬🇭. My passion for software grows as I begin
 to put my visualized ideas into practise and my curiosity make me learn more. I use my current stack to provide solutions with building content
 management systems with a good architecture and clean code. I also find interest in the security of systems that is why follow and use the
@@ -12,6 +13,13 @@ to use.
 - 📫 How to reach me: [Twitter - @Henrybranny](https://twitter.com/Henrybranny) , [Linkedin - Henry Kofi Brandoh](https://www.linkedin.com/in/henry-kofi-brandoh-4316b6138/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like coding with cools music :)
+
+<pre>
+- Interested in:         Php, C++, Python
+- Working on:            A lot of things
+- Discord:               None
+- Website:               Working on it
+</pre>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people</b> so if you want to say <b>hi, Kindly reach out by dropping a message</b> :)</em>
 
