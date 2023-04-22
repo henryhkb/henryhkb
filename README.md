@@ -15,7 +15,7 @@ to use.
 - ⚡ Fun fact: I like coding with cools music :)
 
 <pre>
-- Interested in:         Php, C++, Python
+- Interested in:         Php, C++, Java
 - Working on:            A lot of things
 - Discord:               None
 - Website:               Working on it
