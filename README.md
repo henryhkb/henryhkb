@@ -6,7 +6,7 @@ management systems with a good architecture and clean code. I also find interest
 OWASP top 10 vulnerablity analysis 🔐. Hey 😄 That means I do not only build systems but also make sure they are safe for its users and organisations
 to use.
 
-- 🔭 I’m learning and exploring artificial intelligence and how it can improve the financial sector.
+- 🔭 I’m interested and exploring Machine Learning and how it can improve ourlives sector.
 - 🌱 I’m currently learning Object Oriented Programming using PHP and Laravel
 - 👯 I’m looking to collaborate on PHP/Laravel Open source projects
 - 🤔 I’m looking for help with good tutorials on PHP(OOP)
@@ -15,7 +15,7 @@ to use.
 - ⚡ Fun fact: I like coding with cools music :)
 
 <pre>
-- Interested in:         Php, C++, Java
+- Interested in:         Php, C++, Machine Learning
 - Working on:            A lot of things
 - Discord:               None
 - Website:               Working on it
