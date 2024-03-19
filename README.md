@@ -9,7 +9,7 @@ to use.
 - 🔭 I’m interested and exploring Machine Learning and how it can improve ourlives sector.
 - 🌱 I’m currently learning Object Oriented Programming using PHP and Laravel
 - 👯 I’m looking to collaborate on PHP/Laravel Open source projects
-- 🤔 I’m looking for help with good tutorials on PHP(OOP)
+- 🤔 I’m looking for help with good tutorials on PHP(OOP) and C++
 - 📫 How to reach me: [Twitter - @Henrybranny](https://twitter.com/Henrybranny) , [Linkedin - Henry Kofi Brandoh](https://www.linkedin.com/in/henry-kofi-brandoh-4316b6138/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like coding with cools music :)
