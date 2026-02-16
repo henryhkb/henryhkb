@@ -1,26 +1,45 @@
 ### Hi, I'm Henry Kofi Brandoh 👋 🙂
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-I am a passionate and self-taught full stack Developer with the LAMP(Linux, Apache, MySQL, PHP) from Ghana 🇬🇭. My passion for software grows as I begin
-to put my visualized ideas into practise and my curiosity make me learn more. I use my current stack to provide solutions with building content
-management systems with a good architecture and clean code. I also find interest in the security of systems that is why follow and use the
-OWASP top 10 vulnerablity analysis 🔐. Hey 😄 That means I do not only build systems but also make sure they are safe for its users and organisations
-to use.
+I am an IT Manager and Full-Stack Engineer from Ghana 🇬🇭 with a strong foundation in the LAMP stack (Linux, Apache, MySQL, PHP). I specialize in designing and building scalable, secure, and well-architected web applications that solve real-world operational problems particularly in healthcare and logistics environments.
+My passion for software engineering lies in transforming ideas into structured systems with clean architecture, maintainable code, and practical impact. I approach development not only as a builder but also as a systems thinker.
 
-- 🔭 I’m interested and exploring Machine Learning and how it can improve ourlives sector.
-- 🌱 I’m currently learning Object Oriented Programming using PHP and Laravel
-- 👯 I’m looking to collaborate on PHP/Laravel Open source projects
-- 🤔 I’m looking for help with good tutorials on PHP(OOP) and Java
-- 📫 How to reach me: [Twitter - @Henrybranny](https://twitter.com/Henrybranny) , [Linkedin - Henry Kofi Brandoh](https://www.linkedin.com/in/henry-kofi-brandoh-4316b6138/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I like coding with cools music :)
+🔐 Security-Focused Development
+Security is a core part of my engineering philosophy.
+I actively apply OWASP Top 10 vulnerability awareness and secure coding practices to ensure that the systems I build are reliable and safe for users and organizations.
+I believe software should not only work — it should be resilient.
 
+🏥 Areas of Focus
 <pre>
-- Interested in:         Php, Java
-- Working on:            A lot of things
-- Discord:               None
-- Website:               Working on it
+Healthcare workflow systems
+Backend architecture with Laravel and Django
+Secure system design
+AI & Machine Learning applications (in progress)
+Scalable product development
 </pre>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people</b> so if you want to say <b>hi, Kindly reach out by dropping a message</b> :)</em>
+🤖 Currently Exploring
+<pre>
+Object-Oriented Programming mastery
+Advanced Laravel and Django architecture
+Machine Learning & AI-driven applications
+System optimization & performance design
+</pre>
+
+🤝 Open to Collaborations
+<pre>
+I’m open to collaborating on:
+PHP / Laravel open-source projects
+Python / Django open-source projects
+AI-integrated backend systems
+Healthcare & operations-driven platforms
+</pre>
+
+
+📫 Connect With Me
+Twitter (X): @Henrybranny
+LinkedIn: Henry Kofi Brandoh
+
+I enjoy connecting with builders, innovators, and forward thinkers.
+If you're working on something impactful — let’s talk.
+
 
 
