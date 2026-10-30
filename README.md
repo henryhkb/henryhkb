@@ -11,7 +11,10 @@ I'm currently pursuing an **MPhil in Intelligent Computing Systems at Ashesi Uni
 Many hospitals in Ghana have the equipment to run tests but too few specialists to interpret them. I'm interested in AI that closes that gap, safely and in ways clinicians can trust.
 
 **Featured project: [ECG-Vision App](https://github.com/henryhkb/ecg-vision-app)**
-A computer vision project to detect **atrial fibrillation** from photos of paper ECGs, aimed at settings where cardiologists are scarce. Built on the PTB-XL dataset (9,718 labelled ECGs so far), with clinician input planned for error analysis.
+A deep learning model that detects **atrial fibrillation** from images of 12-lead ECGs, aimed at settings where cardiologists are scarce.
+- Fine-tuned ResNet-18 (PyTorch) on 9,718 PTB-XL ECGs: **test F1 0.967**, vs 0.800 for a simple heart-rhythm rule
+- Stress-tested it, found it failed on blurred and tilted images, and fixed it with photo-like data augmentation (F1 on distorted images: **0.27–0.52 → 0.92–0.96**)
+- Blind review of the model's disagreements by a cardiologist, and a first real-camera test on 36 iPhone photos (F1 0.94–0.97)
 
 Areas I'm exploring:
 - Medical image and signal analysis (ECGs, medical imaging)
