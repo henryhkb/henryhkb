@@ -10,7 +10,7 @@ I'm currently pursuing an **MPhil in Intelligent Computing Systems at Ashesi Uni
 
 Many hospitals in Ghana have the equipment to run tests but too few specialists to interpret them. I'm interested in AI that closes that gap, safely and in ways clinicians can trust.
 
-**Featured project: [ECG-Vision App](https://github.com/henryhkb/ecg-vision-app)**
+**Featured project: [ECG-Vision App](https://github.com/henryhkb/ecg-vision-app)** · [▶ Live demo](https://huggingface.co/spaces/Henryhkb/ecg-vision)
 A deep learning model that detects **atrial fibrillation** from images of 12-lead ECGs, aimed at settings where cardiologists are scarce.
 - Fine-tuned ResNet-18 (PyTorch) on 9,718 PTB-XL ECGs: **test F1 0.967**, vs 0.800 for a simple heart-rhythm rule
 - Stress-tested it, found it failed on blurred and tilted images, and fixed it with photo-like data augmentation (F1 on distorted images: **0.27–0.52 → 0.92–0.96**)
